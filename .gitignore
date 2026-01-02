@@ -1,0 +1,9 @@
+# Local config (do not commit)
+config.h
+
+# Build outputs
+*.bin
+*.elf
+
+# Logs
+*.log
