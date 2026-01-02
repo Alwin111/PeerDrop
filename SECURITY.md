@@ -8,4 +8,4 @@ If you discover a vulnerability:
 
 Email: alwinroman123@gmail.com
 
-“PeerDrop does not hard-code or ship any personal data. All identity information is entered locally by the user during setup and stored only on the device.”
+**PeerDrop does not hard-code or ship any personal data. All identity information is entered locally by the user during setup and stored only on the device.**
