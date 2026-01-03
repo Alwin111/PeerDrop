@@ -4,6 +4,13 @@ PeerDrop is an open-source, offline peer-to-peer data exchange system built on E
 
 It enables secure proximity-based data sharing without internet, cloud services, or external peripherals.
 
+## 🎥 Demo
+
+
+
+https://github.com/user-attachments/assets/b7733d71-add5-4994-8c12-cdf9bd697ad2
+
+
 ## Features
 - BLE-based peer discovery
 - RSSI-based proximity validation
