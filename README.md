@@ -6,7 +6,7 @@ It enables secure proximity-based data sharing without internet, cloud services,
 
 ## 🎥 Demo
 
-
+https://github.com/user-attachments/assets/aac2b5cb-a827-4cd7-aa52-fccb38e8eb3e
 
 https://github.com/user-attachments/assets/b7733d71-add5-4994-8c12-cdf9bd697ad2
 
